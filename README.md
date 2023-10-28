@@ -1,2 +1,2 @@
-# Calorie-tracejkr
+# Calorie-tracker
 HACKTOBER PROJECT
